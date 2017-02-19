@@ -1,0 +1,16 @@
+{
+  "name": "aframe-handson-20170219",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o",
+    "deploy": "gh-pages -d /"
+  },
+  "author": "@ikkou",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "http-server": "^0.9.0"
+  }
+}
